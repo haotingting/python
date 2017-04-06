@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-#
+# author: duhao
 
 def fact(x):
     if x == 1:
